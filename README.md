@@ -1,4 +1,4 @@
-# SoundPulse
+# SoundPulse V1.0.0
 
 A modern, high-performance soundboard application for Windows built with Python, PySide6, and PortAudio. SoundPulse enables you to play audio clips directly into voice chats (Discord, Steam, TeamSpeak, Skype, Zoom, and in-game voice) while simultaneously monitoring playback through your headphones without interrupting your microphone.
 
