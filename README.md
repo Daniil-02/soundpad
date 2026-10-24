@@ -1,4 +1,4 @@
-# SoundPulse
+# SoundPulse V1.0.0
 
 A modern, low-latency soundboard for Windows built with Python and PySide6. Play audio memes and clips directly into Discord, Steam, and in-game voice chats while speaking through your microphone, with real-time headphone monitoring and AI noise suppression (Krisp) compatibility.
 
