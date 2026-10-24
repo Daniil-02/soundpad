@@ -1,0 +1,36 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions & binaries
+*.so
+*.dll
+*.obj
+*.lib
+*.exp
+*.def
+*.exe
+
+# Distribution / packaging / PyInstaller
+build/
+dist/
+*.spec
+*.manifest
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# IDE and Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# SoundPulse local settings / runtime artifacts
+settings.json
+*.log
